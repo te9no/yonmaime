@@ -1,5 +1,6 @@
 #pragma once
 
+#define PRODUCT yonmaime
 #define MASTER_LEFT 
 #define SPLIT_USB_DETECT
 #define TAPPING_TERM 180
