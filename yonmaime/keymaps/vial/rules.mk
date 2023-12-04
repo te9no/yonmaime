@@ -1,0 +1,9 @@
+VIAL_INSECURE = yes
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+ENCODER_ENABLE = yes
+LTO_ENABLE = yes
+QMK_SETTINGS = no
+COMBO_ENABLE = no
+TAP_DANCE_ENABLE = no
+SRC += a2j/translate_ansi_to_jis.c
